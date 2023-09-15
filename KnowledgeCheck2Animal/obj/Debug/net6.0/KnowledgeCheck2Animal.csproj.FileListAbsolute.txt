@@ -1,0 +1,14 @@
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\bin\Debug\net6.0\KnowledgeCheck2Animal.exe
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\bin\Debug\net6.0\KnowledgeCheck2Animal.deps.json
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\bin\Debug\net6.0\KnowledgeCheck2Animal.runtimeconfig.json
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\bin\Debug\net6.0\KnowledgeCheck2Animal.dll
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\bin\Debug\net6.0\KnowledgeCheck2Animal.pdb
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.AssemblyInfoInputs.cache
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.AssemblyInfo.cs
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.dll
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\refint\KnowledgeCheck2Animal.dll
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.pdb
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\KnowledgeCheck2Animal.genruntimeconfig.cache
+C:\Users\sabri\Documents\Projects\KnowledgeCheck2Animal\KnowledgeCheck2Animal\obj\Debug\net6.0\ref\KnowledgeCheck2Animal.dll

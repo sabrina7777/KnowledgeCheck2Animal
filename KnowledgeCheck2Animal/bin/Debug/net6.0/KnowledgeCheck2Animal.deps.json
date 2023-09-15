@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KnowledgeCheck2Animal/1.0.0": {
+        "runtime": {
+          "KnowledgeCheck2Animal.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KnowledgeCheck2Animal/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
